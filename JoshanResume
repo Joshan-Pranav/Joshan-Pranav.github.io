@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="favicon.ico">
+  <meta name="description" content="Joshan Pranav's Online Resume Portfolio">
+  <meta name="author" content="862447296">
+
+  <title>Joshan Pranav - Business Administration: Finance</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Joshan Pranav</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="JoshanPranav.jpg" alt="Profile Picture">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Joshan Pranav
+        </h1>
+        <div class="subheading mb-5">Business Administration📚</div>
+        <p class="lead mb-4">I am a sophomore at the University of California, Riverside, pursuing a pre-business major with hopes of gaining admission to the School of Business to concentrate in finance. As someone driven by both analytical thinking and creativity, I’m committed to blending these strengths into a career in finance, where I can leverage skills in strategic decision-making and problem-solving.
+
+Outside of academics, I am deeply involved with UCR Afsana, a competitive Bollywood fusion dance team. In my role as Production Captain, I oversee various elements of our performances, ensuring that each show is as visually captivating as it is artistically vibrant. Managing the production side of dance has given me experience with the logistical and creative demands of working with props, managing stage lighting, and overseeing the digital production aspects of our team’s performances. Each of these responsibilities requires a unique blend of creativity and organizational skills, which has taught me the importance of attention to detail and flexibility in fast-paced environments.
+
+<br><br>
+
+        Being part of a dance team with such a strong collaborative spirit has taught me a great deal about teamwork, leadership, and the importance of adaptability. Whether I’m working with team members to design innovative prop usage or collaborating with technical crew on lighting schemes, I’ve come to appreciate the power of creative problem-solving in bringing a shared vision to life. My time with UCR Afsana has also given me a solid foundation in event planning, time management, and communication—skills that I believe are highly transferable to the finance world, where I aim to make a meaningful impact.
+
+Academically, my interest in finance stems from a fascination with market dynamics, investment strategies, and financial forecasting. I enjoy the challenge of balancing numerical analysis with strategic thinking, and I’m excited by the prospect of learning how to make data-driven financial decisions that can benefit businesses and communities alike. My goal is to combine my analytical skills with the creative problem-solving abilities I’ve developed through my dance production work to bring a unique perspective to finance.<br><br>
+
+        Looking ahead, I am eager to continue building my expertise in finance and expand my understanding of how economic factors impact business strategies. My experiences as a pre-business major and production captain have both fueled my ambition to enter the world of finance and inspired me to bring the same dedication, teamwork, and passion for precision to this field as I have on stage.
+        </p>
+        <div class="social-icons">
+          <a target="_blank" id="socialicon-1" href="https://www.linkedin.com/in/joshan-pranav-886944244/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a target="_blank" id="socialicon-2" href="https://github.com/Joshan-Pranav">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" id="socialicon-3" href="https://twitter.com/bleacherreport">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" id="socialicon-4" href="mailto:Joshanpranav0@gmail.com">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Student</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://www.compass.com/">Compass Real Estate</a></div>
+            <p>
+              • Production Captain of UCR Afsana: Competitive Bollywood Fusion Dance Team<br> 
+              • Curry Up Now Register Employee<br>
+              • Internship at Compass Real Estate<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2022 - Present</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Cashier</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://wholefoods.com">Curry Up Now</a></div>
+            <p>
+              • Responsible for checking out customers<br>
+              • Cleaning tables<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">March 2020 - September 2023</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Production Captain</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://ucr.edu">UCR AFSANA</a></div>
+            <p>
+            • Dances for a team that competes nationally<br>
+            • Sets up props and stage lighting<br>
+
+          </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2023 - Present</span>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">UC Riverside</h3>
+            <div class="subheading mb-3">Business Administration: Finance</div>
+            <div>Business Administration: Finance</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2023 - June 2027</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+             <img src="IMG_3918.PNG" width="500px">
+    <img src="IMG_3906.PNG" width="500px"><br>
+    <img src="IMG_3905.PNG" width="500px">
+    <img src="IMG_3904.PNG" width="500px"><br>
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> Joshan Pranav</center><br>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+</body>
+</html>
